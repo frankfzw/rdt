@@ -7,9 +7,6 @@ sending and receiveing side of a reliable data transport portocol.
 Using sliding windows (Go-Back-N)
 
 
-ID:	5110379042
-Name:	付周望
-E-mail:	frankfzw@sjtu.edu.cn
 
 Design and implementation strategies:
 	这次实验我采用的是GO-BACK-N的方式来实现sender和receiver之间的通讯。
